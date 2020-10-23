@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AwesomeProject</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">UgUpRz4vO2anuycxrWhp4IFMSjwoxMxLPPZcn</string>
+</resources>
